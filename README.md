@@ -35,7 +35,7 @@ Será necessario para o uso correto do sistema:
     - host = "seu host mysql";
     - dbname = "nome do seu banco de dados";
 
-## Usando
+## Usando via linha de comando
 
 O uso é simplesmente facil:
 
