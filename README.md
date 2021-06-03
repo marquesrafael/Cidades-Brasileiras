@@ -2,6 +2,45 @@
 # Cidades-Brasileiras
 Repositorio para hospedagem de uma SQL com todas as cidades brasileiras
 
+## Para o uso
+Foi utilizado nesse sistema:
+- PHP
+- HTML
+- CSS
+- BOOTSTRAP
+- MYSQL
+- FONTAWESOME
+- VUE
+- JAVASCRIPT 
+
+## Para o uso
+
+Será necessario para o uso correto do sistema:
+
+- PHP 
+- Servidor (exemplo APACHE)
+- MYSQL
+
+## Para configurar
+
+- Faça upload das bases de dados 
+- No arquivo sys/config.php edite:
+    - $username = "seu usuario";
+    - $password = "sua senha";
+    - $linguagem = "linguagem";
+        - linguagens disponiveis:
+            - pt-BR
+            - es-ES
+            - en-US
+    - host = "seu host mysql";
+    - dbname = "nome do seu banco de dados";
+
+## Usando
+
+O uso é simplesmente facil:
+
+- Selecione o estado desejado
+- Será mostrado todas as cidades do estado seleciona
 
 > PORTUGUES
 
